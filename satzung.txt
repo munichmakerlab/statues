@@ -1,8 +1,4 @@
-I copied this from the Mannheim Hackerspace RaumZeitLabor. Feel free to change stuff. We need to rewrite part I (might leave it out completely), as well as II §2 (2). Feel free to get started on that.
-
------------------------------------------------------------------------------
-
-I. Präambel
+﻿I. Präambel
 
 Die Informationsgesellschaft unserer Tage ist ohne Computer nicht mehr denkbar. Die Einsatzmöglichkeiten der automatisierten Datenverarbeitung und Datenübermittlung bergen Chancen, aber auch Gefahren für den Einzelnen und für die Gesellschaft.
 
@@ -16,13 +12,13 @@ Rund um Open Source, Freie Software und Internet-Visionäre hat sich eine neue, 
 
 Dieser Entwicklung und dem technologischen Fortschritt ist es zu verdanken das neuartige Herstellungs- und Bearbeitungsverfahren wie 3D-Druck, Laserschnitt oder die CAD gesteuerte Frästechnik für Privatpersonen zugänglich werden. Die Möglichkeiten dieser neuen Techniken sind noch lange nicht ausgelotet, und bieten attraktive neue Betätigungsfelder für technisch- sowie designinteressierte Menschen. 
 
-Das HackingRoom Project möchte die gesellschaftliche Entwicklung und das globale, freie Wissen voranbringen. Basierend auf der Grundlage des kollaborativen Wissensaustauschs geht es um den Neuerwerb von Wissen für die Gesellschaft durch den Austausch zwischen Spezialisten in den verschiedensten Bereichen und der Verbindung verschiedenster Bereiche moderner Technologien. Seine Mitglieder beschäftigen sich zum Beispiel in den Bereichen 3D Druck, Mikrocontroller, Schaltungsdesign, digitale Demokratie, CAD / CAM, elektronische Musik, alternative Telekommunikationsinfrastruktur, Fotografie, angewandte Kryptographie, Augmented Reality, Systemtheorie, objektorientierte und imperative Programmierung von Arduino über Java bis hin zu Shell oder Python sowie der Nutzung neuer Technologien in der Gegenwartskunst.
+Das Munich Maker Lab möchte die gesellschaftliche Entwicklung und das globale, freie Wissen voranbringen. Basierend auf der Grundlage des kollaborativen Wissensaustauschs geht es um den Neuerwerb von Wissen für die Gesellschaft durch den Austausch zwischen Spezialisten in den verschiedensten Bereichen und der Verbindung verschiedenster Bereiche moderner Technologien. Seine Mitglieder beschäftigen sich zum Beispiel in den Bereichen 3D-Druck, Mikrocontroller, Schaltungsdesign, digitale Demokratie, CAD / CAM, elektronische Musik, alternative Telekommunikationsinfrastruktur, Fotografie, angewandte Kryptographie, Augmented Reality, Systemtheorie, objektorientierte und imperative Programmierung von Arduino über Java bis hin zu Shell oder Python sowie der Nutzung neuer Technologien in der Gegenwartskunst.
 
 II. Hauptteil der Satzung
 
 §1 Name, Sitz, Eintragung, Geschäftsjahr
 
-(1) Der Verein trägt den Namen _________________.
+(1) Der Verein trägt den Namen Munich Maker Lab.
 (2) Er hat seinen Sitz in München.
 (3) Er wird in das Vereinsregister beim Registergericht München eingetragen.
 (4) Geschäftsjahr ist das Kalenderjahr.
@@ -38,8 +34,8 @@ II. Hauptteil der Satzung
 	Jugendarbeit und Erwachsenenbildung im Bereich Medienkompetenz. Beispielsweise Schulungen zum verantwortungsvollen Umgang mit neuen Medien in Zusammenarbeit mit öffentlichen sowie privaten Bildungseinrichtungen.
 	Förderung interdisziplinärer Arbeitsgruppen. Exemplarisch die künstlerische Betrachtung moderner Informationstechnologien und deren kreative Umsetzung in kooperativen Projekten. 
 	Einbindung künstlerischer Arbeiten zum Bereich Gesellschaft, Kultur, Design, Fertigungs- und Handwerkstechniken, Computer, neue Medien in das Vereinsleben unter anderem durch Ausstellungen in den Vereinsräumen.
-	Förderung von interkultureller Begegnung und Austausch im Kontext der internationalen Maker-Bewegung.
-	Bereitstellung von räumlicher und technischen Infrastruktur zur Unterstützung oben genannter Aktivitäten
+	Förderung von interkultureller Begegnung und Austausch im Kontext der internationalen Hacker- und Maker-Bewegung.
+	Bereitstellung von räumlicher und technischer Infrastruktur zur Unterstützung oben genannter Aktivitäten
     
 §3 Gemeinnützigkeit
 
