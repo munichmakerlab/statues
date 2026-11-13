@@ -1,7 +1,3 @@
-# The Hacking Room Project
+# Munich Maker Lab
 
-Some resources for the Hacking Room Project, a new hackerspace for Munich.
-
-After the etherpad that was used got screwed up somehow, I decided to through this in a git repo real quick.
-
-Check out http://hackingroom.de/wiki/ for more information
+Check out [http://hackingroom.de/wiki/](https://wiki.munichmakerlab.de/wiki/Main_Page) for more information
